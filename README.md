@@ -1,4 +1,4 @@
- <img align="center" alt="GIF" clear="both" src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/images/fds.gif" width="100%" style="height: 500px;" />
+ <img align="center" alt="GIF" clear="both" src="https://github.com/shubhtech1515/shubhtech1515/blob/main/images/fds.gif" width="100%" style="height: 500px;" />
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 </br>
@@ -9,13 +9,13 @@ Currently working as a software developer, I have honed my skills in building sc
 I am seeking a dynamic role as a full-stack web developer, where I can leverage my technical proficiency and enthusiasm for development to contribute meaningfully to innovative projects. I am particularly interested in opportunities that provide room for growth, learning, and the chance to work on cutting-edge technologies and impactful solutions.</p>
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsingh1515&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamSingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhtech1515&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamSingh" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shubhsingh1515&theme=algolia" alt="ShubhamSingh" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shubhtech1515&theme=algolia" alt="ShubhamSingh" /></a> </p>
 
 <p align="left"> <a href="https://x.com/shubh_singh1515" target="blank"><img src="https://img.shields.io/twitter/follow/ShubhamSingh?logo=twitter&style=for-the-badge" alt="ShubhamSingh" /></a> </p>
 
-<img align="right" alt="Coding" width="400" height="380" src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/images/aicode.png" />
+<img align="right" alt="Coding" width="400" height="380" src="https://github.com/shubhtech1515/shubhtech1515/blob/main/images/aicode.png" />
 
 ## About Me
 
@@ -86,8 +86,8 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 
 <!-- First Row (Two Cards Side-by-Side) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsingh1515&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Langs" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhsingh1515&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" width="400" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhtech1515&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhtech1515&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" width="400" /> 
 </p>
 
 <!-- Second Row (Streak Stats Centered) -->
@@ -101,11 +101,11 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
  
  <h2 align="center">Hackerrank Status 📊</h2>
  <p align="center">  <a href="https://www.hackerrank.com/shubh1515" target="blank">
-   <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/badges.png" alt="Badges"/>
- <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/certificate.png" alt="Certificates"/>
+   <img src="https://github.com/shubhtech1515/shubhtech1515/blob/main/badges.png" alt="Badges"/>
+ <img src="https://github.com/shubhtech1515/shubhtech1515/blob/main/certificate.png" alt="Certificates"/>
  </p>
 
-[![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhsingh1515&theme=react-dark)](https://github.com/shubhsingh1515)
+[![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhtech1515&theme=react-dark)](https://github.com/shubhtech1515)
 
  <h2 align="center">Dev Card</h2>
 <p align="center"><a href="https://app.daily.dev/shubh1515"><img src="https://api.daily.dev/devcards/v2/WYbg2emGISyeYm4CPfwb2.png?type=wide&r=nni" width="800" alt="Shubham Singh's Dev Card"/></a></p>
@@ -121,11 +121,6 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 - [Getting Started with Docker: Simplifying Containerization for Modern Development](https://shubh1515.medium.com/getting-started-with-docker-simplifying-containerization-for-modern-development-9b2efa14de11?source=rss-e563ac5db78e------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="center"> 💼 Support My Work </h2>
-
-If you find my projects valuable or inspiring, consider supporting my work — your encouragement helps me keep building and improving!
-<br>
-<a href="https://www.buymeacoffee.com/shubh1515" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ![Building](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
 
