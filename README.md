@@ -114,11 +114,11 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 <h2 align="center"> 📝 Recent Medium Blogs </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Memory Architecture: Short-Term, Long-Term, and Persistent Memory](https://shubh1515.medium.com/ai-agent-memory-architecture-short-term-long-term-and-persistent-memory-bc832374fbda?source=rss-e563ac5db78e------2)
 - [Engineering Secure AI Agents: Permissions, Sandboxing, and Zero Trust](https://shubh1515.medium.com/engineering-secure-ai-agents-permissions-sandboxing-and-zero-trust-42f8e72f229a?source=rss-e563ac5db78e------2)
 - [Understanding Google’s A2A Protocol for AI Agent Communication](https://shubh1515.medium.com/understanding-googles-a2a-protocol-for-ai-agent-communication-d127d67a94b7?source=rss-e563ac5db78e------2)
 - [WebMCP Explained: The Future of AI-Friendly Websites](https://shubh1515.medium.com/webmcp-explained-the-future-of-ai-friendly-websites-991c866d0acc?source=rss-e563ac5db78e------2)
 - [HTTP Finally Gets a QUERY Method: Why GET and POST Were Never Enough](https://shubh1515.medium.com/http-finally-gets-a-query-method-why-get-and-post-were-never-enough-ab1456ff20bd?source=rss-e563ac5db78e------2)
-- [Why You Should Learn Next.js in 2026](https://shubh1515.medium.com/why-you-should-learn-next-js-in-2026-a18228cb2d31?source=rss-e563ac5db78e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
