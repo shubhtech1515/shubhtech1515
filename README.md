@@ -114,11 +114,11 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 <h2 align="center"> 📝 Recent Medium Blogs </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Why TypeScript Is Winning in the AI Coding Era](https://shubh1515.medium.com/why-typescript-is-winning-in-the-ai-coding-era-5fcdf6b1dce8?source=rss-e563ac5db78e------2)
 - [MCP Is Becoming the API Layer for AI Agents](https://shubh1515.medium.com/mcp-is-becoming-the-api-layer-for-ai-agents-6d7861df21ff?source=rss-e563ac5db78e------2)
 - [AI Agent Memory Architecture: Short-Term, Long-Term, and Persistent Memory](https://shubh1515.medium.com/ai-agent-memory-architecture-short-term-long-term-and-persistent-memory-bc832374fbda?source=rss-e563ac5db78e------2)
 - [Engineering Secure AI Agents: Permissions, Sandboxing, and Zero Trust](https://shubh1515.medium.com/engineering-secure-ai-agents-permissions-sandboxing-and-zero-trust-42f8e72f229a?source=rss-e563ac5db78e------2)
 - [Understanding Google’s A2A Protocol for AI Agent Communication](https://shubh1515.medium.com/understanding-googles-a2a-protocol-for-ai-agent-communication-d127d67a94b7?source=rss-e563ac5db78e------2)
-- [WebMCP Explained: The Future of AI-Friendly Websites](https://shubh1515.medium.com/webmcp-explained-the-future-of-ai-friendly-websites-991c866d0acc?source=rss-e563ac5db78e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
