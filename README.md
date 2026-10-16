@@ -114,11 +114,11 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 <h2 align="center"> 📝 Recent Medium Blogs </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno Is Not Dead Yet: What the Cloudflare Move Means for JavaScript Developers](https://shubh1515.medium.com/deno-is-not-dead-yet-what-the-cloudflare-move-means-for-javascript-developers-a09177ab3e86?source=rss-e563ac5db78e------2)
 - [Jev vs LLMs: Why AI Applications May Need Decision Models](https://shubh1515.medium.com/jev-vs-llms-why-ai-applications-may-need-decision-models-210126349555?source=rss-e563ac5db78e------2)
 - [Why TypeScript Is Winning in the AI Coding Era](https://shubh1515.medium.com/why-typescript-is-winning-in-the-ai-coding-era-5fcdf6b1dce8?source=rss-e563ac5db78e------2)
 - [MCP Is Becoming the API Layer for AI Agents](https://shubh1515.medium.com/mcp-is-becoming-the-api-layer-for-ai-agents-6d7861df21ff?source=rss-e563ac5db78e------2)
 - [AI Agent Memory Architecture: Short-Term, Long-Term, and Persistent Memory](https://shubh1515.medium.com/ai-agent-memory-architecture-short-term-long-term-and-persistent-memory-bc832374fbda?source=rss-e563ac5db78e------2)
-- [Engineering Secure AI Agents: Permissions, Sandboxing, and Zero Trust](https://shubh1515.medium.com/engineering-secure-ai-agents-permissions-sandboxing-and-zero-trust-42f8e72f229a?source=rss-e563ac5db78e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
